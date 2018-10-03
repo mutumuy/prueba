@@ -1,6 +1,6 @@
 public class oscar{
   public static void main(String args[]){
-   System.out.print("Óscar García Abad");
-   System.out.print("Bembibre")
+   System.out.print("Hola mundo");
+   System.out.print("Bembibre");
  }
 }
